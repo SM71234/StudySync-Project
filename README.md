@@ -1,4 +1,4 @@
-<h1 align="center">🚀 TechStartup Landing Page</h1>
+<h1 align="center">🚀 StudySync Landing Page</h1>
 
 <p align="center">
   A sleek, modern, and responsive landing page built with HTML5 and CSS3. <br>
@@ -23,13 +23,6 @@
 
 ---
 
-## 📸 Preview
-
-> 🖼️ Screenshots or a demo GIF will help others visualize your project.
-
-![Landing Page Preview](https://github.com/yourusername/project-name/assets/preview.png)
-
----
 
 ## 🗂️ Project Structure
 
